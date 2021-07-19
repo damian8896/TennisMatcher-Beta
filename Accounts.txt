@@ -1,0 +1,9 @@
+Jared: level 6, EAST, Male, 19 years old
+Jeremy: level 7, WEST, Male, 24 years old
+Matthew: level 3, EAST, Male, 14 years old
+Joshua: level 4, WEST, Male, 16 years old
+Claire: level 9, WEST, Female, 17 years old
+Abby: level 2, EAST, Female, 11 years old
+Maria: level 8, WEST, Female, 28 years old
+Serena: level 10, EAST, Female, 26 years old
+Jacob: level 3, EAST, Male, 33 years old

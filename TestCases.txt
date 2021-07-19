@@ -1,0 +1,37 @@
+Valid data
+
+Jared: level 6, EAST, Male, 19 years old
+Jeremy: level 7, WEST, Male, 24 years old
+Matthew: level 3, EAST, Male, 14 years old
+Joshua: level 4, WEST, Male, 16 years old
+Claire: level 9, WEST, Female, 17 years old
+Abby: level 2, EAST, Female, 11 years old
+Maria: level 8, WEST, Female, 28 years old
+Serena: level 10, EAST, Female, 26 years old
+Jacob: level 3, EAST, Male, 33 years old
+Coby: level 5, EAST, Male, 26 years old
+
+Extreme data
+
+Joshua: level 4, WEST, Male, 16 years old
+
+A: level 5, EAST, Male, 19 years old
+B: level 5, EAST, Male, 24 years old
+C: level 5, EAST, Male, 14 years old
+D: level 5, WEST, Male, 16 years old
+E: level 5, WEST, Female, 17 years old
+F: level 5, WEST, Female, 11 years old
+G: level 5, EAST, Female, 28 years old
+H: level 5, WEST, Female, 26 years old
+I: level 5, EAST, Male, 33 years old
+J: level 5, EAST, Male, 26 years old
+K: level 5, EAST, Male, 17 years old
+
+Invalid data
+
+<none>
+
+Maria: level 8.4, WEST, Female, 28 years old
+Serena: level 10, EAST, Female, -10 years old
+Jacob: level 3, blah, Male, 33 years old
+Coby: level 5, EAST, yes, 26 years old
